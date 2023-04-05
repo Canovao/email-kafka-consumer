@@ -1,6 +1,5 @@
 package br.com.dbc.vemser.financeiro.emailkafkaconsumer.dto;
 
-import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonInclude;
 import lombok.Data;
 
